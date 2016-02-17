@@ -23,11 +23,6 @@ public class RecursionFrame
 		this.setVisible(true);
 	}
 	
-	private RecursionPanel(RecursionController baseController)
-	{
-		this.baseController = baseController;
-		baseLayout = new SpringLayout();
-		f
-	}
+	
 	
 }
