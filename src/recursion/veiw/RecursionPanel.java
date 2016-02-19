@@ -48,6 +48,7 @@ public class RecursionPanel extends JPanel
 		baseLayout.putConstraint(SpringLayout.EAST, inputField, -127, SpringLayout.EAST, this);
 		baseLayout.putConstraint(SpringLayout.NORTH, fibonacciButton, 64, SpringLayout.NORTH, this);
 		baseLayout.putConstraint(SpringLayout.WEST, fibonacciButton, 58, SpringLayout.WEST, this);
-
 	}
+	
+	
 }
